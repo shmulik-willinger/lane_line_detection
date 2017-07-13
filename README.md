@@ -40,6 +40,10 @@ Hough transformation             |  Final result
 ![]( https://github.com/shmulik-willinger/lane_line_detection/blob/master/test_images_output/example/hough.jpg?raw=true)  |  ![]( https://github.com/shmulik-willinger/lane_line_detection/blob/master/test_images_output/example/final.jpg?raw=true)
 
 
+Video Challenge
+
+![](https://github.com/shmulik-willinger/lane_line_detection/blob/master/test_videos_output/challenge.mp4)
+
 
 How to use
 ---
