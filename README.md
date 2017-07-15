@@ -28,21 +28,21 @@ The test_images and test_videos folders contain some inputs I used in the projec
 
 Original Image             |  Gray
 :-------------------------:|:-------------------------:
-![]( https://github.com/shmulik-willinger/lane_line_detection/blob/master/test_images_output/example/original.jpg?raw=true)  |  ![]( https://github.com/shmulik-willinger/lane_line_detection/blob/master/test_images_output/example/gray.jpg?raw=true)
+![]( https://github.com/shmulik-willinger/lane_line_detection/blob/master/readme_img/original.jpg?raw=true)  |  ![]( https://github.com/shmulik-willinger/lane_line_detection/blob/master/readme_img/gray.jpg?raw=true)
 
 Gaussian Blurred             |  Canny edge detection
 :-------------------------:|:-------------------------:
-![]( https://github.com/shmulik-willinger/lane_line_detection/blob/master/test_images_output/example/gaussian.jpg?raw=true)  |  ![]( https://github.com/shmulik-willinger/lane_line_detection/blob/master/test_images_output/example/canny.jpg?raw=true)
+![]( https://github.com/shmulik-willinger/lane_line_detection/blob/master/readme_img/gaussian.jpg?raw=true)  |  ![]( https://github.com/shmulik-willinger/lane_line_detection/blob/master/readme_img/canny.jpg?raw=true)
 
 
-Hough transformation             |  Final result
+Hough transformation   (with region mask)           |  Final result
 :-------------------------:|:-------------------------:
-![]( https://github.com/shmulik-willinger/lane_line_detection/blob/master/test_images_output/example/hough.jpg?raw=true)  |  ![]( https://github.com/shmulik-willinger/lane_line_detection/blob/master/test_images_output/example/final.jpg?raw=true)
+![]( https://github.com/shmulik-willinger/lane_line_detection/blob/master/readme_img/hough.jpg?raw=true)  |  ![]( https://github.com/shmulik-willinger/lane_line_detection/blob/master/readme_img/final.jpg?raw=true)
 
 
-Video Challenge
+Video example
 
-![](https://github.com/shmulik-willinger/lane_line_detection/blob/master/test_videos_output/challenge.mp4)
+[![video lane_line_detection](https://github.com/shmulik-willinger/lane_line_detection/blob/master/readme_img/lane_line_detection.gif)](http://www.youtube.com/watch?v=u0OumobnHaE)
 
 
 How to use
