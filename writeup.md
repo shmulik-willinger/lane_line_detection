@@ -20,7 +20,7 @@
 ### Pipeline description
 
 
-My pipeline consisted of 5 steps:
+My pipeline consisted of 8 steps:
 1. First, I converted the images to grayscale
 
 2. Using Gaussian smoothing which is essentially a way of suppressing noise and spurious gradients by averaging
