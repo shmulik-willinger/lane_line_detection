@@ -44,7 +44,7 @@ My pipeline consisted of 8 steps:
 8.  run the processing on the videos. The output can be found on the test_videos_output folder
 
 In the following image you can see an example of one of the test images, where the pipeline calulate the mean endpoints and slope for the left line (on blue) and for the right line (on green). then the function extend the lines (the black lines) where some of the endpoints exceeding the boundaries of the picture. The Region-Masking step (marked on yellow) will cut the outliers edges, and the final output will be as smoother as it can.
-![]( https://github.com/shmulik-willinger/lane_line_detection/blob/master/test_images_output/example/extend_lines.jpg?raw=true)
+![]( https://github.com/shmulik-willinger/lane_line_detection/blob/master/readme_img/extend_lines.jpg?raw=true)
 
 
 ### Potential shortcomings with the current pipeline
