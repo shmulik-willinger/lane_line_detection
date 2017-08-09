@@ -37,7 +37,7 @@ My pipeline consisted of 8 steps:
   * calculate the mean slope for each line
   * extend the lines to fill all the slope, in this case I used   simple multiplication with big negative and positive values (\*400 and \*(-400))
   * calculate the mean of the new lines result with the previews lines for better smoothing
-  * raws lines with color and combine it with the original image
+  * draws lines with color and combine it with the original image
 
 7. Create a loop that will take all the tests images and run the pipeline processing on them. The output will be sent to the output folder
 
